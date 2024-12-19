@@ -1,0 +1,4 @@
+#Thu Dec 19 17:27:11 PKT 2024
+base.0=D\:\\Rizwan\\course_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
